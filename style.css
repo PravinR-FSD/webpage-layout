@@ -1,0 +1,76 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+.Header {
+  background-color: rgb(30, 33, 36);
+  width: 100%;
+  height: 90px;
+  display: flex;
+  align-items: center;
+  margin-bottom: 4%;
+}
+img {
+  width: 50px;
+  margin-left: 35%;
+}
+.GITHUB {
+  color: white;
+  font-family: sans-serif;
+  margin-left: 44.5%;
+}
+
+.container {
+  width: 100%;
+  min-height: 600px;
+}
+.sidebar {
+  width: 300px;
+  height: 500px;
+  border-radius: 20px;
+  margin-left: 4%;
+  background-color: rgb(31, 43, 43);
+  float: left;
+}
+.rightside {
+  width: 68%;
+  height: 500px;
+  float: right;
+  margin-right: 4%;
+}
+
+.Search-tab {
+  background-color: rgb(31, 43, 43);
+  width: 700px;
+  height: 38px;
+  border-radius: 7px;
+  margin: auto;
+}
+.search {
+  color: grey;
+  line-height: 38px;
+  padding-left: 2%;
+  font-family: ca;
+}
+.three-box {
+  width: 100%;
+  height: 200px;
+  margin-top: 20px;
+  align-items: center;
+  display: flex;
+  justify-content: space-evenly;
+}
+.boxes {
+  background-color: rgb(31, 43, 43);
+  width: 220px;
+  height: 120px;
+  border-radius: 15px;
+}
+.rec {
+  width: 100%;
+  background-color: rgb(31, 43, 43);
+  height: 170px;
+  margin-top: 30px;
+  border-radius: 15px;
+}
